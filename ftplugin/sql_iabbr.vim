@@ -134,7 +134,6 @@ inoreabbr <silent> <buffer> mode <C-R>=SqlIab_ReplaceConditionally('mode', 'MODE
 inoreabbr <silent> <buffer> modify <C-R>=SqlIab_ReplaceConditionally('modify', 'MODIFY')<CR>
 inoreabbr <silent> <buffer> money <C-R>=SqlIab_ReplaceConditionally('money', 'MONEY')<CR>
 inoreabbr <silent> <buffer> move <C-R>=SqlIab_ReplaceConditionally('move', 'MOVE')<CR>
-inoreabbr <silent> <buffer> name <C-R>=SqlIab_ReplaceConditionally('name', 'NAME')<CR>
 inoreabbr <silent> <buffer> noaudit <C-R>=SqlIab_ReplaceConditionally('noaudit', 'NOAUDIT')<CR>
 inoreabbr <silent> <buffer> nocompress <C-R>=SqlIab_ReplaceConditionally('nocompress', 'NOCOMPRESS')<CR>
 inoreabbr <silent> <buffer> not <C-R>=SqlIab_ReplaceConditionally('not', 'NOT')<CR>
